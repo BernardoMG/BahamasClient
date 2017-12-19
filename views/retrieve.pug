@@ -1,0 +1,19 @@
+doctype html
+html(lang='en')
+  head
+    title Challenge
+    meta(charset='utf-8')
+    meta(name='viewport', content='width=device-width, initial-scale=1, shrink-to-fit=no')
+  body
+    table
+      tr
+        th InvoiceID
+        th Fiscal Number
+        th Name
+        th Email
+      tr
+        td #{message.invoiceId}
+        td #{message.fiscalNumber}
+        td #{message.name}
+        td #{message.email}
+
