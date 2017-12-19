@@ -12,9 +12,7 @@ npm install
 
 1. Install MongoDB (if you do not have installed already)
 
-```
-[Guide](https://docs.mongodb.com/manual/tutorial/install-mongodb-on-os-x/)
-```
+![Guide](https://docs.mongodb.com/manual/tutorial/install-mongodb-on-os-x/)
 
 2. Start MongoDB (on macOS)
 
