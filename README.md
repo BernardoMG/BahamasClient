@@ -1,5 +1,7 @@
 # Client from the Bahamas
 
+[![Build Status](https://travis-ci.org/BernardoMG/BahamasClient.svg?branch=master)](https://travis-ci.org/BernardoMG/BahamasClient)
+
 ## How to run
 
 ### Install dependencies
