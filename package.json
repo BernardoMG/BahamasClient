@@ -19,12 +19,12 @@
   "dependencies": {
     "chai": "^4.1.2",
     "express": "^4.16.2",
-    "joi": "^13.0.2",
+    "joi": "^13.7.0",
     "mocha": "^4.0.1",
     "mongoose": "^4.10.8",
     "nock": "^9.1.4",
     "pug": "^2.0.0-rc.4",
-    "request": "^2.83.0",
+    "request": "^2.88.0",
     "supertest": "^3.0.0"
   }
 }
